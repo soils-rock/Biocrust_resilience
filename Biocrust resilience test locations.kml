@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Biocrust resilience test locations.kml</name>
+	<StyleMap id="msn_square">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_square</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_square0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_square0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_square0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_square</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_triangle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_triangle</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_triangle</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_square">
+		<IconStyle>
+			<color>ff000000</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/square.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_square0">
+		<IconStyle>
+			<color>ff000000</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/square.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_triangle">
+		<IconStyle>
+			<color>ff000000</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_square">
+		<IconStyle>
+			<color>ff000000</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/square.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_square0">
+		<IconStyle>
+			<color>ff000000</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/square.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_triangle">
+		<IconStyle>
+			<color>ff000000</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>Biocrust resilience test locations</name>
+		<open>1</open>
+		<Placemark>
+			<name>DD</name>
+			<LookAt>
+				<gx:TimeStamp><when>2023-04-28</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-111.5916137575782</longitude>
+				<latitude>32.90225961603156</latitude>
+				<altitude>0</altitude>
+				<heading>0.008653705460525605</heading>
+				<tilt>0</tilt>
+				<range>361.6698282327139</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_square0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-111.5923266934284,32.90225705047938,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>31</name>
+			<styleUrl>#msn_square</styleUrl>
+			<Point>
+				<coordinates>-111.0494527777778,32.66131166666666,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DG</name>
+			<LookAt>
+				<gx:TimeStamp><when>2023-04-28</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-111.5916137575782</longitude>
+				<latitude>32.90225961603156</latitude>
+				<altitude>0</altitude>
+				<heading>0.008653705460525605</heading>
+				<tilt>0</tilt>
+				<range>361.6698282327139</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_square</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-111.5926270479373,32.90223585069327,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ND</name>
+			<LookAt>
+				<gx:TimeStamp><when>2023-04-28</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-111.5888956652926</longitude>
+				<latitude>32.90766406651966</latitude>
+				<altitude>0</altitude>
+				<heading>0.01013126144246316</heading>
+				<tilt>0</tilt>
+				<range>844.7189329004485</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_square</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-111.5888918601761,32.908191095077,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LV</name>
+			<LookAt>
+				<gx:TimeStamp><when>2023-04-28</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-111.5841796238117</longitude>
+				<latitude>32.90080213567185</latitude>
+				<altitude>0</altitude>
+				<heading>0.01269104912755658</heading>
+				<tilt>0</tilt>
+				<range>214.892763004344</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_square</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-111.5845677993943,32.90094426627426,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SF</name>
+			<LookAt>
+				<gx:TimeStamp><when>2023-04-28</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-111.6828865895686</longitude>
+				<latitude>33.30235126064412</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3221371510349791</heading>
+				<tilt>0.03307704267994888</tilt>
+				<range>235.8057724026558</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_square</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-111.6828865895686,33.30235126064413,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LC</name>
+			<LookAt>
+				<gx:TimeStamp><when>2023-04-28</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-111.5813202321738</longitude>
+				<latitude>32.86492025918504</latitude>
+				<altitude>0</altitude>
+				<heading>-0.7162882951485758</heading>
+				<tilt>19.53410411152265</tilt>
+				<range>596.7991848227906</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_square</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-111.5795878894227,32.86482180124374,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>25</name>
+			<LookAt>
+				<gx:TimeStamp><when>2023-04-28</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-111.1745067397533</longitude>
+				<latitude>32.63000344514347</latitude>
+				<altitude>0</altitude>
+				<heading>-1.424759533754709e-06</heading>
+				<tilt>0</tilt>
+				<range>232.993227529104</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_square</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-111.1749312329615,32.63001030289345,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LV Farm</name>
+			<LookAt>
+				<gx:TimeStamp><when>2024-02-16</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-111.5754062933154</longitude>
+				<latitude>32.90642787939743</latitude>
+				<altitude>0</altitude>
+				<heading>0.01736372409199894</heading>
+				<tilt>0</tilt>
+				<range>551.5484690801201</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-111.5758584827102,32.9056214697403,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DG Farm</name>
+			<LookAt>
+				<gx:TimeStamp><when>2023-04-28</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-111.596210316559</longitude>
+				<latitude>32.89626779144279</latitude>
+				<altitude>0</altitude>
+				<heading>0.006156233910948311</heading>
+				<tilt>0</tilt>
+				<range>479.2136418537024</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-111.5975813761399,32.89579255773792,0</coordinates>
+			</Point>
+		</Placemark>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Folder>
+</Document>
+</kml>
